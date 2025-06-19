@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Daniel Solis Salge
 
-- 🔭 No momento estou à procura do meu primeiro emprego como desenvolvedor.
 - 🌱 Estudando JAVA e MySQL na faculdade de Sistemas da Informação
 - 🏬 Meu portfólio: https://d-salge.github.io/Portfolio/
 <div>
